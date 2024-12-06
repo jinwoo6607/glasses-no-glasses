@@ -1,0 +1,32 @@
+normal
+bash
+pip install torch torchvision torchaudio
+pip install opencv-python
+pip install pandas
+pip install pyttsx3
+pip install pillow
+pip install openpyxl
+pip install git+https://github.com/ultralytics/yolov5.git
+
+
+if use conda
+# PyTorch (CUDA 버전)
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+
+# OpenCV
+conda install -c conda-forge opencv
+
+# pandas
+conda install pandas
+
+# Excel 파일 관련 openpyxl
+conda install -c conda-forge openpyxl
+
+# Pillow
+conda install pillow
+
+# pyttsx3 (선택 사항)
+pip install pyttsx3
+
+# YOLOv5
+pip install git+https://github.com/ultralytics/yolov5.git
