@@ -1,4 +1,12 @@
 
+
+
+
+
+<img width="473" alt="1" src="https://github.com/user-attachments/assets/002e7bc3-ef9b-4ce1-b116-7974d3599445">
+
+
+
 이 프로그램은는 사람을 탐지하고, 해당 사람의 얼굴에서 안경 착용 여부를 분류하는 프로그램입니다.
 
 주요 기능:
