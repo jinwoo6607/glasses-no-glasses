@@ -4,6 +4,12 @@
 
 
 <img width="473" alt="1" src="https://github.com/user-attachments/assets/002e7bc3-ef9b-4ce1-b116-7974d3599445">
+<img width="476" alt="사진3" src="https://github.com/user-attachments/assets/02f1f111-c808-4415-81c1-4cf93158097e">
+<img width="502" alt="사진 5" src="https://github.com/user-attachments/assets/134b6c64-4c24-43aa-9527-de2f34f8619f">
+Y키를 누르고
+<img width="151" alt="사진6" src="https://github.com/user-attachments/assets/f6fe817a-bcd8-4087-bf10-fd0553a61a93">
+YES버튼을누르면
+<img width="473" alt="사진7" src="https://github.com/user-attachments/assets/ca704602-5166-459f-8d1a-a505570c13f1">
 
 
 
