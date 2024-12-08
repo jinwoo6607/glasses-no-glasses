@@ -33,6 +33,7 @@ Y키를 누르고
 <img width="474" alt="사진9" src="https://github.com/user-attachments/assets/270cc420-9d36-48af-b5c1-471b7cf90f32">
 
 <img width="475" alt="1kfskd" src="https://github.com/user-attachments/assets/35e7a552-a3ec-40da-9ad4-04fc09b27ed7">
+<img width="430" alt="gernveg" src="https://github.com/user-attachments/assets/1ea5cf26-b515-4746-bdb8-85de0af17f89">
 
 
 
