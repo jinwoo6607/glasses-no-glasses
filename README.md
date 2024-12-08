@@ -15,11 +15,10 @@ Y키를 누르고
 
 
 <img width="151" alt="사진6" src="https://github.com/user-attachments/assets/f6fe817a-bcd8-4087-bf10-fd0553a61a93">
+정보가 맞으면 YES 키를 눌러 엑셀에 정보를 저장되며 이어서 그 다음사람의 정보를 받을수있음 
 
 
 
-
-YES버튼을누르면
 <img width="473" alt="사진7" src="https://github.com/user-attachments/assets/ca704602-5166-459f-8d1a-a505570c13f1">
 
 
