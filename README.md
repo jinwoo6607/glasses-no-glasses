@@ -1,4 +1,4 @@
-웹캠으로 사람의 얼굴에서 안경 착용 여부를 판단하고 엑셀에 저장하는 프로그램입니다.
+웹캠으로 안경을쓴사람과 안쓴사람을 구분하고 사용자에게 입력받은 데이터들을 엑셀로 저장하는 프로그램입니다.
 
 
 
@@ -32,6 +32,7 @@ Y키를 누르고
 
 <img width="474" alt="사진9" src="https://github.com/user-attachments/assets/270cc420-9d36-48af-b5c1-471b7cf90f32">
 
+<img width="475" alt="1kfskd" src="https://github.com/user-attachments/assets/35e7a552-a3ec-40da-9ad4-04fc09b27ed7">
 
 
 
