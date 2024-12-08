@@ -28,7 +28,11 @@ Y키를 누르고
 
 
 
-정보에 수정이 필요하면 NO버튼을 눌러
+정보에 수정이 필요하면 NO버튼을 눌러서 수정가능
+
+<img width="474" alt="사진9" src="https://github.com/user-attachments/assets/270cc420-9d36-48af-b5c1-471b7cf90f32">
+
+
 
 
 
